@@ -1,0 +1,166 @@
+.fom{
+    position: absolute;
+    top: 250px;
+    margin-left: 200px;
+    color: black;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    border-radius: 30px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+float: left;
+list-style: none;
+margin: 13px 20px;
+}
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.search{
+    float: right;
+    color: white;
+    padding: 12px 75px;
+    
+}
+.navbar input{
+    border-radius: 14px;
+    width: 250px;
+    height: 20px;
+    margin-right: 450px;
+}
+.img1{
+    margin-left: 1150px;
+    top: 30px;
+    position: absolute;
+}
+
+.img2{
+   position: absolute;
+   top: 380px;
+}
+.img3{
+    position: absolute;
+    top: 680px;
+ }
+ .img4{
+    position: absolute;
+    top: 980px;
+ }
+
+ .rs1 ul{
+    overflow: auto;
+}
+.rs1 li{
+    float: left;
+    list-style: none;
+    margin: 3px 130px;
+    }
+
+    .rs2{
+        position: absolute;
+        top: 625px;
+    }
+
+    .rs2 ul{
+        overflow: auto;
+    }
+    .rs2 li{
+        float: left;
+        list-style: none;
+        margin: 3px 130px;
+        }
+
+        .rs3{
+            position: absolute;
+            top: 930px;
+        }
+    
+        .rs3 ul{
+            overflow: auto;
+        }
+        .rs3 li{
+            float: left;
+            list-style: none;
+            margin: 3px 130px;
+            }
+
+     .rs4{
+          position: absolute;
+          top: 1230px;
+      }
+        
+     .rs4 ul{
+     overflow: auto;
+     }
+ .rs4 li{
+     float: left;
+      list-style: none;
+       margin: 3px 130px;
+   }
+
+   .main{
+    /* border: 2px solid red; */
+    position: absolute;
+    top: 1270px;
+    background-color: slategray;
+    height: 500px;
+    width: 1300px;
+}
+.main1{
+    /* border: 2px solid black; */
+    color: white;
+    
+}
+.main2{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 300px;
+    color: white;
+}
+
+.main3{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 600px;
+    color: white;
+}
+.main4{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 800px;
+    color: white;
+}
+.inpt{
+    border : 1px solid white;
+    height: 30px;
+    width: 220px
+    
+    
+}
+.btn{
+    height: 35px;
+    width: 120px;
+    color: black;
+    background-color: white;
+}
+.main5{
+    position: absolute;
+    margin: auto;
+    top: 400px;
+    left: 200px;
+}
+.a1{
+    margin-left: 4px;
+}
